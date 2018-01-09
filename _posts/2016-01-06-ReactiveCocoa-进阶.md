@@ -1,8 +1,7 @@
 ---
 layout:     post
 title:      lxliu
-subtitle:   lx
-Started
+subtitle:   lx  
 date:       2018-01-9
 author:     BY XiaLiu
 header-img: img/post-bg-iWatch.jpg
@@ -13,6 +12,8 @@ tags:
     - liuxia
     - 开源库
 ---  
+
+
 
 ### red  
 ### red  
