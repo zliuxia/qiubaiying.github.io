@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deb98201-41db-4111-b914-5437dd8384dc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-01-快速添加圆角和描边.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -152,7 +153,7 @@
       <updated>1512113126188</updated>
       <workItem from="1512113133002" duration="780000" />
       <workItem from="1515637954675" duration="550000" />
-      <workItem from="1515638540475" duration="1245000" />
+      <workItem from="1515638540475" duration="1348000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1512113340967</created>
@@ -182,11 +183,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515639184575</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="上传日志">
+      <created>1515641034948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1515641034948</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2575000" />
+    <option name="totallyTimeSpent" value="2678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
