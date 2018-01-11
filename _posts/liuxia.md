@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      liuxia
-subtitle:   不适合阅读的整理的一些个人常用的 Git 指令
-date:       2017-02-15
-author:     BY
+title:      心情日志
+subtitle:   心情
+date:       2018-01-11
+author:     BY Liuxia
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
